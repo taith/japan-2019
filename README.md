@@ -1,7 +1,11 @@
 # Lịch trình thăm Nhật Bản 2019 (5 ngày)
 > Lộ trình cháu tính để không quá chạy xô như đi tuor
 
+> Nhưng đa số đi lại bằng tàu điện hoặc bus và đi bộ nên có thể hơi mỏi chân chút ạ
+
 > Giá tàu, vé... đều miễn phí với trẻ em dưới 6 tuổi và 50% với trẻ em 6-12 tuổi
+
+> Day 2,3,4 nên đi vào thứ 6, thứ 7,CN hoặc thứ 7, CN , thứ 2 vì cháu mới dẫn mọi người đi được ạ
 
 ## 1. Day 1 ( Thăm Tokyo)
 * Mua vé đi lại trọn gói Tokyo 1 ngày (Đi được hầu hết phương tiện công cộng ở Tokyo)
@@ -10,8 +14,10 @@
 * 8h30~: Asakusa- Chùa Senso-ji, Tokyo Sky Tree, Chùa Sojo-ji, Tháp Tokyo (Gần công ty cháu)
 * 16h~: Bán đảo Odaiba - Tượng nữ thần tự do
 
+> Tổng dự kiến: **4,000 Yên/1Ng**
+
 ## 2. Day 2 (Thăm Hakone - Tỉnh Kanagawa) 
-* Diểm du lịch: Đỉnh núi lửa Hakone, Hồ Hakone, Tắm nước nóng - Rất nổi tiếng, Có thể nhìn thấy núi Phú Sĩ)
+* Điểm du lịch: Đỉnh núi lửa Hakone, Hồ Hakone, Tắm nước nóng - Rất nổi tiếng, Có thể nhìn thấy núi Phú Sĩ)
 * 9h~: Khách sạn -> Ga Odawara
   * Giá vé: **1,150 Yen/1Ng**
   * Thời gian: 60p
@@ -71,5 +77,7 @@
 ## 5. Day 5 (Thăm Yokohama)
 * Phố Shibuya, Shinjyuku, Đền Meiji (Đi 1 lần cho biết thôi ạ)
 * Cảng du thuyền Yokohama, công viên bến cảng, phố người hoa
+
+> Tổng dự kiến **3,000 Yen/1Ng**
 
 [Link giới thiệu về cảng Yokohama](https://locobee.com/mag/vi/2017/10/23/ghe-tham-cang-bien-yokohama-noi-tieng-o-kanagawa/)
