@@ -127,7 +127,7 @@ ___
 [Link giới thiệu về cảng Yokohama](https://locobee.com/mag/vi/2017/10/23/ghe-tham-cang-bien-yokohama-noi-tieng-o-kanagawa/)
 
 ___
-# Chi phí dự kiến/Ng
+# Chi phí dự kiến/1Ng
 Mục | VietJet | VNA->Haneda | VNA->Narita
 ------------ | ------------ | ------------- | -------------
 Vé máy bay (2 chiều) | 7,000,000 VND | 14,255,000 VND | 14,242,000 VND
@@ -138,5 +138,5 @@ Day 3 | 2,350 Yen
 Day 4 | 5,000 Yen (Phương án đắt nhất)
 Day 5 | 3,000 Yen
 Tổng (Yen) | 35,600 Yen/1Ng
-Tổng (VND) | **14,120,000 VND** | **21,375,000 VND** | **21,362,000 VND**
-Tổng + phí ngoài dự tính (10%) | **15,532,000 VND** | **23,512,500 VND** | **23,498,200 VND**
+Tổng (VND) | *14,120,000 VND* | *21,375,000 VND* | *21,362,000 VND*
+Tổng + phí ngoài dự tính (10%) | *15,532,000 VND* | *23,512,500 VND* | *23,498,200 VND*
