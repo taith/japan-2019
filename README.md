@@ -130,6 +130,7 @@ ___
 # Chi phí dự kiến/1Ng
 Mục | VietJet | VNA->Haneda | VNA->Narita
 ------------ | ------------ | ------------- | -------------
+Lệ phí xin Visa | 630,000 VND/1Ng
 Vé máy bay (2 chiều) | 7,000,000 VND | 14,255,000 VND | 14,242,000 VND
 Khách sạn | 4,000/1Ng x 4 Đêm
 Day 1 | 4,000 Yen
@@ -139,4 +140,4 @@ Day 4 | 5,000 Yen (Phương án đắt nhất)
 Day 5 | 3,000 Yen
 Tổng (Yen) | 35,600 Yen/1Ng
 Tổng (VND) | **14,120,000 VND** | **21,375,000 VND** | **21,362,000 VND**
-Tổng + phí ngoài dự tính (10%) | **15,532,000 VND** | **23,512,500 VND** | **23,498,200 VND**
+Tổng + phí ngoài dự tính (10%) | **16,162,000 VND** | **24,142,500 VND** | **24,124,200 VND**
